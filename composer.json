@@ -1,0 +1,8 @@
+{
+    "name": "local/train",
+    "description": "a train project",
+    "type": "project",
+    "require": {
+        "endroid/qr-code": "^6.0"
+    }
+}
